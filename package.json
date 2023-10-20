@@ -1,0 +1,14 @@
+{
+  "name": "app-heroku",
+  "version": "1.0.0",
+  "description": "Configuracion en Node.js para el servidor de hosting compatible con arduino y la app en Flutter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sara Quintana",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
